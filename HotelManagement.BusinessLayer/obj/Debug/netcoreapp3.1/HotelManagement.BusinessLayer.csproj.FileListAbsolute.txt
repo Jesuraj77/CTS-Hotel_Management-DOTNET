@@ -1,0 +1,9 @@
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\bin\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.deps.json
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\bin\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.dll
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\bin\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.pdb
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\obj\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\obj\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\obj\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\obj\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.AssemblyInfo.cs
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\obj\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.dll
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.BusinessLayer\obj\Debug\netcoreapp3.1\HotelManagement.BusinessLayer.pdb

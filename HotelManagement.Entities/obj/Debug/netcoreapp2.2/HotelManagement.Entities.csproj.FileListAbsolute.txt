@@ -1,0 +1,9 @@
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\bin\Debug\netcoreapp2.2\HotelManagement.Entities.deps.json
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\bin\Debug\netcoreapp2.2\HotelManagement.Entities.dll
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\bin\Debug\netcoreapp2.2\HotelManagement.Entities.pdb
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\obj\Debug\netcoreapp2.2\HotelManagement.Entities.csprojAssemblyReference.cache
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\obj\Debug\netcoreapp2.2\HotelManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\obj\Debug\netcoreapp2.2\HotelManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\obj\Debug\netcoreapp2.2\HotelManagement.Entities.AssemblyInfo.cs
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\obj\Debug\netcoreapp2.2\HotelManagement.Entities.dll
+C:\Users\adminuser\Source\Repos\HotelManagement\HotelManagement.Entities\obj\Debug\netcoreapp2.2\HotelManagement.Entities.pdb
